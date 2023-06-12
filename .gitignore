@@ -1,0 +1,19 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+
+#Ignore non_confidential data
+*fishery
+*figures
+*output
+*.pdf
+*shape_files
+*.html
+*.tex
+*.docx
+*.doc
+ 
+#Survey data no uploaded due to file size
+*survey
